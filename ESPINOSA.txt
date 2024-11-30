@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head><title>CHRISTIAN ICT E-PORTFOLIO</title></head>
+<style type="text/css">
+
+.lol {width: 30% ;height: auto;text-align: center;}
+
+.container{height:100vh;background: linear-gradient(50deg, #FF5733,#6495ED);background-size: 300% 300%;animation: color 12s ease-in-out infinite;
+
+
+@keyframes color{0%{background-position: 0 60%;}70%{background-position: 150% 60%;}20%{background-position: 0 70%;}}
+</style>
+<body>
+<link rel="stylesheet" type="text/css">
+<div class="container"> <div align="center"> <img src="E-PORT.png" alt="ICT E PORTFOLIO" style="width:40%; height:40%;"> </div>
+<table>
+<tr>
+<td> <a href="https://chrit1an.github.io/ICT-E-PORTOLIO-2nd-QUARTER/"> <img src="New Project.png" class="lol"> </a> </td> </tr>
+<tr>
+<td> <a href="https://chrit1an.github.io/EXAMPLE-CODES/"> <img src="REFLECTION.png" class="lol"> </a> </td> </tr>
+<tr>
+<td> <a href="https://chrit1an.github.io/REFLECTION/"> <img src="EXAMPLE CODES.png" class="lol"> </a> </td> </tr>
+
+
+</div>
+</body>
+</html>
